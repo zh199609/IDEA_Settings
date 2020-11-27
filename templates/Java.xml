@@ -1,0 +1,9 @@
+<templateSet group="Java">
+  <template name="list" value="List&lt;$class_type$&gt; $variable_name$ = new ArrayList&lt;&gt;();" shortcut="ENTER" description="快速创建ArrayList" toReformat="false" toShortenFQNames="true">
+    <variable name="class_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
