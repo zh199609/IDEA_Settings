@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".springBeans" type="Eclipse" />
+      <mapping pattern="spring.schemas" type="Properties" />
+      <mapping pattern="spring.handlers" type="Properties" />
+    </extensionMap>
+  </component>
+</application>
