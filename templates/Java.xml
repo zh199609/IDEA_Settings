@@ -43,7 +43,7 @@
   </template>
   <template name="*" value="*&#10; * 功能描述: &#10; * 〈$END$〉&#10; * &#10; $params$&#10; * @return : $return$&#10; */" shortcut="ENTER" description="自定义方法注释" toReformat="true" toShortenFQNames="true">
     <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 1; i &lt; params.size() +1; i++) {result+='* @param ' + params[i - 1] + ((i &lt; params.size()) ? '\\n ' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
-    <variable name="return" expression="" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
