@@ -1,44 +1,51 @@
-<templateSet group="Java">	
-  <template name="pr" value="/**&#10; * $END$&#10; */&#10;private $TYPE$ $NAME$;" shortcut="ENTER" description="实体类对象声明" toReformat="false" toShortenFQNames="true">	
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS$.class);" shortcut="ENTER" description="快速声明logger" toReformat="false" toShortenFQNames="true">	
-    <variable name="CLASS" expression="clipboard()" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-  <template name="alist" value="List&lt;$Class_type$&gt; $Variable_name$ = new ArrayList&lt;&gt;();" shortcut="ENTER" description="快速创建ArrayList集合" toReformat="false" toShortenFQNames="true">	
-    <variable name="Class_type" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="Variable_name" expression="" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-  <template name="hashMap" value="Map&lt;$key_type$,$value_type$&gt; $variable_name$=new HashMap&lt;&gt;();" shortcut="ENTER" description="快速创建HashMap" toReformat="false" toShortenFQNames="true">	
-    <variable name="key_type" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="value_type" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="variable_name" expression="" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-  <template name="new" value="$Class$ $variable_name$ = new $Class$();" shortcut="ENTER" description="new对象" toReformat="true" toShortenFQNames="true">	
-    <variable name="Class" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="variable_name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-  <template name="hashSet" value="Set&lt;$class_type$&gt; $variable_name$ = new HashSet&lt;&gt;();" shortcut="ENTER" description="快速创建HashSet" toReformat="true" toShortenFQNames="true">	
-    <variable name="class_type" expression="" defaultValue="" alwaysStopAt="true" />	
-    <variable name="variable_name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />	
-    <context>	
-      <option name="JAVA_CODE" value="true" />	
-    </context>	
-  </template>	
-</templateSet> 
+<templateSet group="Java">
+  <template name="pr" value="/**&#10; * $END$&#10; */&#10;private $TYPE$ $NAME$;" shortcut="ENTER" description="实体类对象声明" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS$.class);" shortcut="ENTER" description="快速声明logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="alist" value="List&lt;$Class_type$&gt; $Variable_name$ = new ArrayList&lt;&gt;();" shortcut="ENTER" description="快速创建ArrayList集合" toReformat="false" toShortenFQNames="true">
+    <variable name="Class_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Variable_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="hashMap" value="Map&lt;$key_type$,$value_type$&gt; $variable_name$=new HashMap&lt;&gt;();" shortcut="ENTER" description="快速创建HashMap" toReformat="false" toShortenFQNames="true">
+    <variable name="key_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="new" value="$Class$ $variable_name$ = new $Class$();" shortcut="ENTER" description="new对象" toReformat="true" toShortenFQNames="true">
+    <variable name="Class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="hashSet" value="Set&lt;$class_type$&gt; $variable_name$ = new HashSet&lt;&gt;();" shortcut="ENTER" description="快速创建HashSet" toReformat="true" toShortenFQNames="true">
+    <variable name="class_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable_name" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="*" value="*&#10; * 功能描述: &#10; * 〈$END$〉&#10; * &#10; $params$&#10; * @return : $return$&#10; */" shortcut="ENTER" description="自定义方法注释" toReformat="true" toShortenFQNames="true">
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 1; i &lt; params.size() +1; i++) {result+='* @param ' + params[i - 1] + ((i &lt; params.size()) ? '\\n ' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
