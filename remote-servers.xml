@@ -1,0 +1,17 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="wsmock_docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://172.16.208.248:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="D:\docker_virtual" />
+              <option name="virtualMachinePath" value="/c/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
