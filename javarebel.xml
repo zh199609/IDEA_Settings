@@ -1,12 +1,14 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="javaRebelPath" value="C:\Users\Administrator\.jrebel\nightly_cache\202107060131\jrebel\jrebel.jar" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2021.2.1" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2021.3.0" />
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2021.2.2" />
         <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
       </map>
