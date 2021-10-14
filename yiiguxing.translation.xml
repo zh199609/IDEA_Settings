@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DBAppender cannot function if the JDBC driver does not support getGeneratedKeys method and without a specific SQL dialect" />
       <item value="violations" />
       <item value="release Config Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
