@@ -1,18 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="placeholder" />
+      <item value="Invoice Process" />
       <item value="DBAppender cannot function if the JDBC driver does not support getGeneratedKeys method and without a specific SQL dialect" />
       <item value="violations" />
       <item value="release Config Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634091946802" />
+    <option name="lastTrimTime" value="1634527218796" />
   </component>
 </application>
