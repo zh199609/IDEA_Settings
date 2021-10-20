@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns true if the specified object is equal to this enum constant. Params: other – the object to be compared for equality with this object. Returns: true if the specified object is equal to this enum constant." />
       <item value="Serial Number" />
       <item value="IDENTITY INSERT" />
       <item value="criteria" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
