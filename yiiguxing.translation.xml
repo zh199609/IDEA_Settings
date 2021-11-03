@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task. Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors. Note that this object is not designed to be thread-safe and does not use synchronization. This class is normally used to verify performance during proof-of-concepts and in development, rather than as part of production applications. Since: May 2, 2001 Author: Rod Johnson, Juergen Hoeller, Sam Brannen" />
       <item value="Essence" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.16:test (default-test) on project CCForum: Execution default-test of goal org.apache.maven.plugins:maven-surefire-plugin:2.16:test failed: Fork count always is not a legal value" />
       <item value="The parameter forkMode is deprecated since version 2.14. Use forkCount and reuseForks instead." />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
