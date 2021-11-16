@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Splits this string around matches of the given regular expression. This method works as if by invoking the two-argument split method with the given expression and a limit argument of zero. Trailing empty strings are therefore not included in the resulting array. The string &quot;boo:and:foo&quot;, for example, yields the following results with these expressions: Regex Result : { &quot;boo&quot;, &quot;and&quot;, &quot;foo&quot; } o { &quot;b&quot;, &quot;&quot;, &quot;:and:f&quot; } Params: regex – the delimiting regular expression Returns: the array of strings computed by splitting this string around matches of the given regular expression Throws: PatternSyntaxException – if the regular expression's syntax is invalid Since: 1.4 See Also: Patter" />
       <item value="Split a String at the first occurrence of the delimiter. Does not include the delimiter in the result. Params: toSplit – the string to split delimiter – to split the string up with Returns: a two element array with index 0 being before the delimiter, and index 1 being after the delimiter (neither element includes the delimiter); or null if the delimiter wasn't found in the given input String" />
       <item value="Inserts the string into this character sequence. The characters of the String argument are inserted, in order, into this sequence at the indicated offset, moving up any characters originally above that position and increasing the length of this sequence by the length of the argument. If str is null, then the four characters &quot;null&quot; are inserted into this sequence. The character at index k in the new character sequence is equal to: the character at index k in the old character sequence, if k is less than offset the character at index k-offset in the argument str, if k is not less than offset but is less than offset+str.length() the character at index k-str.length() in the old character sequence, if k is not less than offset+str.length() The offset argument must be greater than or equal to 0, and less than or equal to the length of this sequence. Params: offset – the offset. str – a string. Returns: a reference to this object. Throws: StringIndexOutOfBoundsException – if the offset is invalid" />
       <item value="Returns a BigInteger whose value is (this val). Params: val – value by which this BigInteger is to be divided. Returns: this val Throws: ArithmeticException – if val is zero." />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
       </map>
     </option>
   </component>
