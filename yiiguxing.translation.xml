@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds. See the description of the class Date for a discussion of slight discrepancies that may arise between &quot;computer time&quot; and coordinated universal time (UTC). Returns: the difference, measured in milliseconds, between the current time and midnight, January 1, 1970 UTC. See Also: java.util.Date" />
       <item value="NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="Splits this string around matches of the given regular expression. This method works as if by invoking the two-argument split method with the given expression and a limit argument of zero. Trailing empty strings are therefore not included in the resulting array. The string &quot;boo:and:foo&quot;, for example, yields the following results with these expressions: Regex Result : { &quot;boo&quot;, &quot;and&quot;, &quot;foo&quot; } o { &quot;b&quot;, &quot;&quot;, &quot;:and:f&quot; } Params: regex – the delimiting regular expression Returns: the array of strings computed by splitting this string around matches of the given regular expression Throws: PatternSyntaxException – if the regular expression's syntax is invalid Since: 1.4 See Also: Patter" />
       <item value="Split a String at the first occurrence of the delimiter. Does not include the delimiter in the result. Params: toSplit – the string to split delimiter – to split the string up with Returns: a two element array with index 0 being before the delimiter, and index 1 being after the delimiter (neither element includes the delimiter); or null if the delimiter wasn't found in the given input String" />
@@ -43,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
