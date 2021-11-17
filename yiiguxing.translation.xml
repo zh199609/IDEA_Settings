@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ould not discover the dialect to use. java.sql.SQLException: NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="Constructs an UnsupportedOperationException with the specified detail message. Params: message – the detail message" />
       <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written. Params: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds. See the description of the class Date for a discussion of slight discrepancies that may arise between &quot;computer time&quot; and coordinated universal time (UTC). Returns: the difference, measured in milliseconds, between the current time and midnight, January 1, 1970 UTC. See Also: java.util.Date" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
