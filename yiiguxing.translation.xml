@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructs a FileWriter object given a file name. Params: fileName – String The system-dependent filename. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
+      <item value="rams: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
+      <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written." />
       <item value="ould not discover the dialect to use. java.sql.SQLException: NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="Constructs an UnsupportedOperationException with the specified detail message. Params: message – the detail message" />
       <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written. Params: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
@@ -47,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
