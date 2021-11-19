@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Name of the HttpServletRequest attribute that contains the best matching pattern within the handler mapping. Note: This attribute is not required to be supported by all HandlerMapping implementations. URL-based HandlerMappings will typically support it, but handlers should not necessarily expect this request attribute to be present in all scenarios." />
       <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="Constructs a FileWriter object given a file name. Params: fileName – String The system-dependent filename. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
       <item value="rams: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
