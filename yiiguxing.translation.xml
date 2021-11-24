@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
+      <item value="ThreadLocal values pertaining to this thread. This map is maintained by the ThreadLocal class." />
       <item value="Constructs a request object wrapping the given request." />
       <item value="Name of the HttpServletRequest attribute that contains the best matching pattern within the handler mapping. Note: This attribute is not required to be supported by all HandlerMapping implementations. URL-based HandlerMappings will typically support it, but handlers should not necessarily expect this request attribute to be present in all scenarios." />
       <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
@@ -52,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
