@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Add an attribute to the model. Params: attributeName – name of the object to add to the model attributeValue – object to add to the model (never null)" />
       <item value="Execute the given task. The call might return immediately if the implementation uses an asynchronous execution strategy, or might block in the case of synchronous execution. Params: task – the Runnable to execute (never null) Throws: TaskRejectedException – if the given task was not accepted" />
       <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
@@ -50,12 +51,11 @@
       <item value="Invoice Process" />
       <item value="DBAppender cannot function if the JDBC driver does not support getGeneratedKeys method and without a specific SQL dialect" />
       <item value="violations" />
-      <item value="release Config Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
