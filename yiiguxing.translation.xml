@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conversion failed when converting date andor time from character string." />
       <item value="IMPLIED" />
       <item value="Illegal Argument Exception" />
       <item value="Incorrect syntax" />
@@ -50,12 +51,11 @@
       <item value="The multi-part identifier" />
       <item value="Conversion" />
       <item value="Criteria" />
-      <item value="FETCH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
       </map>
     </option>
   </component>
