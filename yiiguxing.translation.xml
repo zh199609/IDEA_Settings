@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="onverts a JavaScript Object Notation (JSON) string into an object." />
+      <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
       <item value="invalid comparison" />
       <item value="present" />
       <item value="Required Proposal parameter 'proposal' is not present" />
@@ -49,13 +51,11 @@
       <item value="found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency" />
       <item value="Returns a function that always returns its input argument. Type parameters: &lt;T&gt; – the type of the input and output objects to the function Returns: a function that always returns its input argument" />
       <item value="Performs a mutable reduction operation on the elements of this stream using a Collector. A Collector encapsulates the functions used as arguments to collect(Supplier, BiConsumer, BiConsumer), allowing for reuse of collection strategies and composition of collect operations such as multiple-level grouping or partitioning. If the stream is parallel, and the Collector is concurrent, and either the stream is unordered or the collector is unordered, then a concurrent reduction will be performed (see Collector for details on concurrent reduction.) This is a terminal operation. When executed in parallel, multiple intermediate results may be instantiated, populated, and merged so as to maintain isolation of mutable data structures. Therefore, even when executed in parallel with non-thread-safe data structures (such as ArrayList), no additional synchronization is needed for a parallel reduction." />
-      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task. Conceals use of System.currentTimeMillis(), improving the readability of application code and reducing the likelihood of calculation errors. Note that this object is not designed to be thread-safe and does not use synchronization. This class is normally used to verify performance during proof-of-concepts and in development, rather than as part of production applications. Since: May 2, 2001 Author: Rod Johnson, Juergen Hoeller, Sam Brannen" />
-      <item value="Essence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
       </map>
     </option>
   </component>
