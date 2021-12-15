@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Record" />
       <item value="permission" />
       <item value="onverts a JavaScript Object Notation (JSON) string into an object." />
       <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
@@ -50,12 +51,11 @@
       <item value="The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
       <item value="Encountered unexpected token" />
       <item value="found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency" />
-      <item value="Returns a function that always returns its input argument. Type parameters: &lt;T&gt; – the type of the input and output objects to the function Returns: a function that always returns its input argument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
