@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Integration team" />
       <item value="Record" />
       <item value="permission" />
       <item value="onverts a JavaScript Object Notation (JSON) string into an object." />
@@ -50,16 +51,15 @@
       <item value="The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified.; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
       <item value="The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
       <item value="Encountered unexpected token" />
-      <item value="found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639535159293" />
+    <option name="lastTrimTime" value="1639986313535" />
   </component>
 </application>
