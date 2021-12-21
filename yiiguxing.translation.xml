@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value)." />
+      <item value="Consult the Javadoc for OrderComparator for details on the sort semantics for non-ordered objects." />
+      <item value="Annotation-based ordering is supported for specific kinds of components only — for example, for annotation-based AspectJ aspects. Ordering strategies within the Spring container, on the other hand, are typically based on the Ordered interface in order to allow for programmatically configurable ordering of each instance." />
+      <item value="Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation." />
       <item value="Integration team" />
       <item value="Record" />
       <item value="permission" />
@@ -47,15 +51,11 @@
       <item value="A constant holding the maximum value an int can have" />
       <item value="Need to specify class name in environment or system property, or as an applet parameter" />
       <item value="escape" />
-      <item value="was expecting double-quote to start field name" />
-      <item value="The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified.; nested exception is com.microsoft.sqlserver.jdbc.SQLServerException: The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
-      <item value="The ORDER BY clause is invalid in views, inline functions, derived tables, subqueries, and common table expressions, unless TOP, OFFSET or FOR XML is also specified." />
-      <item value="Encountered unexpected token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
