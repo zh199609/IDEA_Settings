@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Spring's central class for synchronous client-side HTTP access. It simplifies communication with HTTP servers, and enforces RESTful principles. It handles HTTP connections, leaving application code to provide URLs (with possible template variables) and extract results. Note: by default the RestTemplate relies on standard JDK facilities to establish HTTP connections. You can switch to use a different HTTP library such as Apache HttpComponents, Netty, and OkHttp through the setRequestFactory property. The main entry points of this template are the methods named after the six main HTTP methods:" />
       <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
       <item value="Invoking the beforeTestMethod method on PowerMock test listener org.powermock.api.extension.listener.AnnotationEnabler@4f8969b0 failed." />
       <item value="nvoking the beforeTestMethod method on PowerMock test listener org.powermock.api.extension.listener.AnnotationEnabler@11acdc30 failed" />
@@ -50,12 +51,11 @@
       <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written. Params: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds. See the description of the class Date for a discussion of slight discrepancies that may arise between &quot;computer time&quot; and coordinated universal time (UTC). Returns: the difference, measured in milliseconds, between the current time and midnight, January 1, 1970 UTC. See Also: java.util.Date" />
       <item value="NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
-      <item value="Splits this string around matches of the given regular expression. This method works as if by invoking the two-argument split method with the given expression and a limit argument of zero. Trailing empty strings are therefore not included in the resulting array. The string &quot;boo:and:foo&quot;, for example, yields the following results with these expressions: Regex Result : { &quot;boo&quot;, &quot;and&quot;, &quot;foo&quot; } o { &quot;b&quot;, &quot;&quot;, &quot;:and:f&quot; } Params: regex – the delimiting regular expression Returns: the array of strings computed by splitting this string around matches of the given regular expression Throws: PatternSyntaxException – if the regular expression's syntax is invalid Since: 1.4 See Also: Patter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
       </map>
     </option>
   </component>
