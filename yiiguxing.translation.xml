@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoking the beforeTestMethod method on PowerMock test listener org.powermock.api.extension.listener.AnnotationEnabler@4f8969b0 failed." />
       <item value="nvoking the beforeTestMethod method on PowerMock test listener org.powermock.api.extension.listener.AnnotationEnabler@11acdc30 failed" />
       <item value="Class Not Prepared Exception" />
       <item value="If you're unsure why you're getting above error read on. Due to the nature of the syntax above problem might occur because: 1. This exception might occur in wrongly written multi-threaded tests. Please refer to Mockito FAQ on limitations of concurrency testing. 2. A spy is stubbed using when(spy.foo()).then() syntax. It is safer to stub spies - - with doReturn|Throw() family of methods. More in javadocs for Mockito.spy() method." />
@@ -50,12 +51,11 @@
       <item value="NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="Splits this string around matches of the given regular expression. This method works as if by invoking the two-argument split method with the given expression and a limit argument of zero. Trailing empty strings are therefore not included in the resulting array. The string &quot;boo:and:foo&quot;, for example, yields the following results with these expressions: Regex Result : { &quot;boo&quot;, &quot;and&quot;, &quot;foo&quot; } o { &quot;b&quot;, &quot;&quot;, &quot;:and:f&quot; } Params: regex – the delimiting regular expression Returns: the array of strings computed by splitting this string around matches of the given regular expression Throws: PatternSyntaxException – if the regular expression's syntax is invalid Since: 1.4 See Also: Patter" />
       <item value="Split a String at the first occurrence of the delimiter. Does not include the delimiter in the result. Params: toSplit – the string to split delimiter – to split the string up with Returns: a two element array with index 0 being before the delimiter, and index 1 being after the delimiter (neither element includes the delimiter); or null if the delimiter wasn't found in the given input String" />
-      <item value="Inserts the string into this character sequence. The characters of the String argument are inserted, in order, into this sequence at the indicated offset, moving up any characters originally above that position and increasing the length of this sequence by the length of the argument. If str is null, then the four characters &quot;null&quot; are inserted into this sequence. The character at index k in the new character sequence is equal to: the character at index k in the old character sequence, if k is less than offset the character at index k-offset in the argument str, if k is not less than offset but is less than offset+str.length() the character at index k-str.length() in the old character sequence, if k is not less than offset+str.length() The offset argument must be greater than or equal to 0, and less than or equal to the length of this sequence. Params: offset – the offset. str – a string. Returns: a reference to this object. Throws: StringIndexOutOfBoundsException – if the offset is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>
