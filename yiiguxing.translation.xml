@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eturns true if this list contains the specified element. More formally, returns true if and only if this list contains at least one element e such that (o==null ? e==null : o.equals(e)). Params: o – element whose presence in this list is to be tested Returns: true if this list contains the specified element" />
       <item value="Default is true, leading to an exception thrown in case there is no body content. Switch this to false if you prefer null to be passed when the body content is nul" />
       <item value="The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value)." />
       <item value="Consult the Javadoc for OrderComparator for details on the sort semantics for non-ordered objects." />
@@ -50,12 +51,11 @@
       <item value="Returns a BigInteger whose value is (this val). Params: val – value by which this BigInteger is to be divided. Returns: this val Throws: ArithmeticException – if val is zero." />
       <item value="Upper Ell" />
       <item value="A constant holding the maximum value an int can have" />
-      <item value="Need to specify class name in environment or system property, or as an applet parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
