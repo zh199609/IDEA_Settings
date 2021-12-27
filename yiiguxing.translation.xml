@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A container object which may or may not contain a non-null value. If a value is present, isPresent() will return true and get() will return the value." />
       <item value="Parameter 'alias' not found. Available parameters are" />
       <item value="Returns a composed function that first applies this function to its input, and then applies the after function to the result. If evaluation of either function throws an exception, it is relayed to the caller of the composed function." />
       <item value="Spring's central class for synchronous client-side HTTP access. It simplifies communication with HTTP servers, and enforces RESTful principles. It handles HTTP connections, leaving application code to provide URLs (with possible template variables) and extract results. Note: by default the RestTemplate relies on standard JDK facilities to establish HTTP connections. You can switch to use a different HTTP library such as Apache HttpComponents, Netty, and OkHttp through the setRequestFactory property. The main entry points of this template are the methods named after the six main HTTP methods:" />
@@ -50,16 +51,15 @@
       <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written." />
       <item value="ould not discover the dialect to use. java.sql.SQLException: NamingException while looking up DataSource: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="Constructs an UnsupportedOperationException with the specified detail message. Params: message – the detail message" />
-      <item value="Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written. Params: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639986313535" />
+    <option name="lastTrimTime" value="1640583413209" />
   </component>
 </application>
