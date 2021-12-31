@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table" />
+      <item value="The array of bins. Lazily initialized upon first insertion. Size is always a power of two. Accessed directly by iterators." />
+      <item value="Maps the specified key to the specified value in this table. Neither the key nor the value can be null. The value can be retrieved by calling the get method with a key that is equal to the original key. Params: key – key with which the specified value is to be associated value – value to be associated with the specified key Returns: the previous value associated with key, or null if there was no mapping for key Throws: NullPointerException – if the specified key or value is null" />
+      <item value="Key-value entry. This class is never exported out as a user-mutable Map.Entry (i.e., one supporting setValue; see MapEntry below), but can be used for read-only traversals used in bulk tasks. Subclasses of Node with a negative hash field are special, and contain null keys and values (but are never exported). Otherwise, keys and vals are never null." />
       <item value="A task that returns a result and may throw an exception. Implementors define a single method with no arguments called call. The Callable interface is similar to Runnable, in that both are designed for classes whose instances are potentially executed by another thread. A Runnable, however, does not return a result and cannot throw a checked exception. The Executors class contains utility methods to convert from other common forms to Callable" />
       <item value="The parameter forkMode is deprecated since version 2.14. Use forkCount and reuseForks instead" />
       <item value="Constructs an IllegalArgumentException with no detail message." />
@@ -47,15 +51,11 @@
       <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
       <item value="ThreadLocal values pertaining to this thread. This map is maintained by the ThreadLocal class." />
-      <item value="Constructs a request object wrapping the given request." />
-      <item value="Name of the HttpServletRequest attribute that contains the best matching pattern within the handler mapping. Note: This attribute is not required to be supported by all HandlerMapping implementations. URL-based HandlerMappings will typically support it, but handlers should not necessarily expect this request attribute to be present in all scenarios." />
-      <item value="Constructs a FileWriter object given a file name. Params: fileName – String The system-dependent filename. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
-      <item value="rams: fileName – String The system-dependent filename. append – boolean if true, then data will be written to the end of the file rather than the beginning. Throws: IOException – if the named file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
       </map>
     </option>
   </component>
