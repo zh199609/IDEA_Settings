@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation that binds a method parameter or method return value to a named model attribute, exposed to a web view. Supported for controller classes with @RequestMapping methods. Can be used to expose command objects to a web view, using specific attribute names, through annotating corresponding parameters of an @RequestMapping method. Can also be used to expose reference data to a web view through annotating accessor methods in a controller class with @RequestMapping methods. Such accessor methods are allowed to have any arguments that @RequestMapping methods support, returning the model attribute value to expose. Note however that reference data and all other model content is not available to web views when request processing results in an Exception since the exception could be raised at any time making the content of the model unreliable. For this reason @ExceptionHandler methods do not provide access to a Model argument." />
       <item value="Table initialization and resizing control. When negative, the table is being initialized or resized: -1 for initialization, else -(1 + the number of active resizing threads). Otherwise, when table is null, holds the initial table size to use upon creation, or 0 for default. After initialization, holds the next element count value upon which to resize the table" />
       <item value="The array of bins. Lazily initialized upon first insertion. Size is always a power of two. Accessed directly by iterators." />
       <item value="Maps the specified key to the specified value in this table. Neither the key nor the value can be null. The value can be retrieved by calling the get method with a key that is equal to the original key. Params: key – key with which the specified value is to be associated value – value to be associated with the specified key Returns: the previous value associated with key, or null if there was no mapping for key Throws: NullPointerException – if the specified key or value is null" />
@@ -50,16 +51,15 @@
       <item value="Execute the given task. The call might return immediately if the implementation uses an asynchronous execution strategy, or might block in the case of synchronous execution. Params: task – the Runnable to execute (never null) Throws: TaskRejectedException – if the given task was not accepted" />
       <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is maintained by the InheritableThreadLocal class." />
-      <item value="ThreadLocal values pertaining to this thread. This map is maintained by the ThreadLocal class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640583413209" />
+    <option name="lastTrimTime" value="1641264393536" />
   </component>
 </application>
