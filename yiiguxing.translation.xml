@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Budget" />
       <item value="startup failed due to previous errors" />
       <item value="Artifact RegionalMarketing:war exploded: Error during artifact deployment. See server log for details" />
       <item value="If the specified key is not already associated with a value, associate it with the given value. This is equivalent to" />
@@ -50,12 +51,11 @@
       <item value="Annotation indicating a method parameter should be bound to the body of the web request. The body of the request is passed through an HttpMessageConverter to resolve the method argument depending on the content type of the request. Optionally, automatic validation can be applied by annotating the argument with @Valid. Supported for annotated handler methods in Servlet environments." />
       <item value="Property or field 'name' cannot be found on null" />
       <item value="no further information" />
-      <item value="Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
