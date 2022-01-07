@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attachment" />
+      <item value="audit" />
       <item value="Budget" />
       <item value="Instance" />
       <item value="startup failed due to previous errors" />
@@ -49,13 +51,11 @@
       <item value="Incorrect syntax" />
       <item value="No Such Property Exception" />
       <item value="RequestHeader, ResponseBody, org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter, org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
-      <item value="Annotation indicating a method parameter should be bound to the body of the web request. The body of the request is passed through an HttpMessageConverter to resolve the method argument depending on the content type of the request. Optionally, automatic validation can be applied by annotating the argument with @Valid. Supported for annotated handler methods in Servlet environments." />
-      <item value="Property or field 'name' cannot be found on null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
       </map>
     </option>
   </component>
