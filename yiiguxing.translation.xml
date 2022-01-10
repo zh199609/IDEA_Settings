@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconnect" />
       <item value="Constraint" />
       <item value="Attachment" />
       <item value="audit" />
@@ -50,12 +51,11 @@
       <item value="IMPLIED" />
       <item value="Illegal Argument Exception" />
       <item value="Incorrect syntax" />
-      <item value="No Such Property Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
       </map>
     </option>
   </component>
