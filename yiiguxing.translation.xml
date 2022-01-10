@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constraint" />
       <item value="Attachment" />
       <item value="audit" />
       <item value="Budget" />
@@ -50,16 +51,15 @@
       <item value="Illegal Argument Exception" />
       <item value="Incorrect syntax" />
       <item value="No Such Property Exception" />
-      <item value="RequestHeader, ResponseBody, org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter, org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641264393536" />
+    <option name="lastTrimTime" value="1641781917061" />
   </component>
 </application>
