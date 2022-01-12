@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exploded" />
+      <item value="Artifact" />
+      <item value="deployed" />
       <item value="Compares this String to another String, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case" />
       <item value="reconnect" />
       <item value="Constraint" />
@@ -48,14 +51,11 @@
       <item value="PROTECTION" />
       <item value="SUPERVISOR" />
       <item value="Ambiguous" />
-      <item value="Conversion failed when converting date andor time from character string." />
-      <item value="IMPLIED" />
-      <item value="Illegal Argument Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
       </map>
     </option>
   </component>
