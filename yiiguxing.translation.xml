@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
+      <item value="Return Count" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-checkstyle-plugin:3.0.0:check (checkstyle) on project BCCPMS: You have 1 Checkstyle violation" />
       <item value="position" />
       <item value="Criteria" />
@@ -49,13 +51,11 @@
       <item value="Record" />
       <item value="permission" />
       <item value="onverts a JavaScript Object Notation (JSON) string into an object." />
-      <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
-      <item value="invalid comparison" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
       </map>
     </option>
   </component>
