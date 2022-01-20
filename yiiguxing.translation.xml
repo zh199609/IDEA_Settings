@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SEVEN" />
       <item value="Duplicate" />
       <item value="Audit" />
       <item value="Return Count" />
@@ -50,12 +51,11 @@
       <item value="Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation." />
       <item value="Integration team" />
       <item value="Record" />
-      <item value="permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
       </map>
     </option>
   </component>
