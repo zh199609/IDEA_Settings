@@ -15,9 +15,9 @@
     <mask>*sql</mask>
     <mask>*.JS</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
     <mask>*</mask>
   </component>
 </application>
