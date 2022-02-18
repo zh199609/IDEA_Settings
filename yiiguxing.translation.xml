@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operator" />
       <item value="varbinary" />
       <item value="The data types date and varbinary are incompatible in the less than or equal to operator" />
       <item value="binary" />
@@ -50,12 +51,11 @@
       <item value="Constructs an IllegalArgumentException with no detail message." />
       <item value="A container object which may or may not contain a non-null value. If a value is present, isPresent() will return true and get() will return the value." />
       <item value="Parameter 'alias' not found. Available parameters are" />
-      <item value="Returns a composed function that first applies this function to its input, and then applies the after function to the result. If evaluation of either function throws an exception, it is relayed to the caller of the composed function." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
