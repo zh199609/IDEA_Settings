@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encountered unexpected token" />
       <item value="operator" />
       <item value="varbinary" />
       <item value="The data types date and varbinary are incompatible in the less than or equal to operator" />
@@ -50,12 +51,11 @@
       <item value="The parameter forkMode is deprecated since version 2.14. Use forkCount and reuseForks instead" />
       <item value="Constructs an IllegalArgumentException with no detail message." />
       <item value="A container object which may or may not contain a non-null value. If a value is present, isPresent() will return true and get() will return the value." />
-      <item value="Parameter 'alias' not found. Available parameters are" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
