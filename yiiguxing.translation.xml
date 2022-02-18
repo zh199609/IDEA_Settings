@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="varbinary" />
+      <item value="The data types date and varbinary are incompatible in the less than or equal to operator" />
       <item value="binary" />
       <item value="truncated" />
       <item value="Required request body is missing" />
@@ -49,8 +51,6 @@
       <item value="A container object which may or may not contain a non-null value. If a value is present, isPresent() will return true and get() will return the value." />
       <item value="Parameter 'alias' not found. Available parameters are" />
       <item value="Returns a composed function that first applies this function to its input, and then applies the after function to the result. If evaluation of either function throws an exception, it is relayed to the caller of the composed function." />
-      <item value="Spring's central class for synchronous client-side HTTP access. It simplifies communication with HTTP servers, and enforces RESTful principles. It handles HTTP connections, leaving application code to provide URLs (with possible template variables) and extract results. Note: by default the RestTemplate relies on standard JDK facilities to establish HTTP connections. You can switch to use a different HTTP library such as Apache HttpComponents, Netty, and OkHttp through the setRequestFactory property. The main entry points of this template are the methods named after the six main HTTP methods:" />
-      <item value="Invoking the beforeTestMethod method on PowerMock test listener org.powermock.api.extension.listener.AnnotationEnabler@4f8969b0 failed." />
     </histories>
     <option name="languageScores">
       <map>
