@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer found for class org.apache.catalina.connector.CoyoteOutputStream and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: ccdoa.premier.ws.web.filter.WebUtils1[1]-&gt;ccdoa.premier.ws.web.filter.WebUtils1[&quot;response&quot;]-&gt;org.apache.catalina.connector.ResponseFacade[&quot;outputStream&quot;])" />
       <item value="terminated" />
       <item value="RequestMapping, RequestHeader, CookieValue, org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter, org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter, org.springframework.web.portlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
       <item value="Annotation which indicates that a method parameter should be bound to a web request parameter. Supported for annotated handler methods in Servlet and Portlet environments. If the method parameter type is Map and a request parameter name is specified, then the request parameter value is converted to a Map assuming an appropriate conversion strategy is available. If the method parameter is Map&lt;String, String&gt; or MultiValueMap&lt;String, String&gt; and a parameter name is not specified, then the map parameter is populated with all request parameter names and values. Since:" />
@@ -50,12 +51,11 @@
       <item value="Tests if this date is after the specified date. Params: when – a date. Returns: true if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
       <item value="combine" />
       <item value="Returns whether any elements of this stream match the provided predicate. May not evaluate the predicate on all elements if not necessary for determining the result. If the stream is empty then false is returned and the predicate is not evaluated." />
-      <item value="Annotation that binds a method parameter or method return value to a named model attribute, exposed to a web view. Supported for controller classes with @RequestMapping methods. Can be used to expose command objects to a web view, using specific attribute names, through annotating corresponding parameters of an @RequestMapping method. Can also be used to expose reference data to a web view through annotating accessor methods in a controller class with @RequestMapping methods. Such accessor methods are allowed to have any arguments that @RequestMapping methods support, returning the model attribute value to expose. Note however that reference data and all other model content is not available to web views when request processing results in an Exception since the exception could be raised at any time making the content of the model unreliable. For this reason @ExceptionHandler methods do not provide access to a Model argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
