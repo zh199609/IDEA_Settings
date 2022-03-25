@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.codehaus.mojo:cobertura-maven-plugin:2.7:instrument (default) on project BCCPMS: Unable to prepare instrumentation directory" />
       <item value="Atomically sets to the given value and returns the old value. Params: newValue – the new value Returns: the previous value" />
       <item value="com.fasterxml.jackson.databind.exc.InvalidDefinitionException: No serializer found for class org.apache.catalina.connector.CoyoteOutputStream and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) (through reference chain: ccdoa.premier.ws.web.filter.WebUtils1[1]-&gt;ccdoa.premier.ws.web.filter.WebUtils1[&quot;response&quot;]-&gt;org.apache.catalina.connector.ResponseFacade[&quot;outputStream&quot;])" />
       <item value="terminated" />
@@ -50,12 +51,11 @@
       <item value="If the specified key is not already associated with a value, associate it with the given value. This is equivalent to" />
       <item value="Gets a calendar using the default time zone and locale. The Calendar returned is based on the current time in the default time zone with the default FORMAT locale" />
       <item value="Tests if this date is after the specified date. Params: when – a date. Returns: true if and only if the instant represented by this Date object is strictly later than the instant represented by when; false otherwise." />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
