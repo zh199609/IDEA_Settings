@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test should never throw an exception to this level" />
       <item value="Rejected Execution Exception" />
       <item value="Failed to execute goal org.codehaus.mojo:cobertura-maven-plugin:2.7:instrument (default) on project BCCPMS: Unable to prepare instrumentation directory" />
       <item value="Atomically sets to the given value and returns the old value. Params: newValue – the new value Returns: the previous value" />
@@ -50,12 +51,11 @@
       <item value="startup failed due to previous errors" />
       <item value="Artifact RegionalMarketing:war exploded: Error during artifact deployment. See server log for details" />
       <item value="If the specified key is not already associated with a value, associate it with the given value. This is equivalent to" />
-      <item value="Gets a calendar using the default time zone and locale. The Calendar returned is based on the current time in the default time zone with the default FORMAT locale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
