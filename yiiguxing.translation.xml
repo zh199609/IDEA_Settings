@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String or binary data would be truncated" />
       <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent newFixedThreadPool(1) the returned executor is guaranteed not to be reconfigurable to use additional threads. Returns: the newly created single-threaded Executor" />
       <item value="Error during artifact deployment. See server log for details." />
       <item value="Rejected Execution Exception" />
@@ -50,17 +51,16 @@
       <item value="Attachment" />
       <item value="audit" />
       <item value="Budget" />
-      <item value="Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648185458548" />
+    <option name="lastTrimTime" value="1650247247038" />
   </component>
 </application>
