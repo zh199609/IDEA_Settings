@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refresh" />
       <item value="present" />
       <item value="HttpMessageConverter found for request type" />
       <item value="no suitable" />
@@ -50,17 +51,16 @@
       <item value="exploded" />
       <item value="Artifact" />
       <item value="deployed" />
-      <item value="Compares this String to another String, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651739418131" />
+    <option name="lastTrimTime" value="1652923140161" />
   </component>
 </application>
