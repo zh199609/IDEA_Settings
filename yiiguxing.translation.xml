@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clause" />
+      <item value="nknown column 'approve_status' in 'order clause'" />
       <item value="Return the value if present, otherwise return other. Params: other – the value to be returned if there is no value present, may be null Returns: the value, if present, otherwise other" />
       <item value="Error while getting data source javax.naming.NoInitialContextException: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial at javax.naming.NoInitialContextException: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="get Generated Keys" />
@@ -49,13 +51,11 @@
       <item value="@Order defines the sort order for an annotated component. The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value). Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation. NOTE: Annotation-based ordering is supported for specific kinds of components only — for example, for annotation-based AspectJ aspects. Ordering strategies within the Spring container, on the other hand, are typically based on the Ordered interface in order to allow for programmatically configurable ordering of each instance." />
       <item value="The returned Collector is not concurrent. For parallel stream pipelines, the combiner function operates by merging the keys from one map into another, which can be an expensive operation. If it is not required that results are merged into the Map in encounter order, using toConcurrentMap(Function, Function, BinaryOperator) may offer better parallel performance." />
       <item value="merge Function" />
-      <item value="Expectation" />
-      <item value="The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
