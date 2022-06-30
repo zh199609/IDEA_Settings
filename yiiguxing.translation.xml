@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No qualifying bean of type" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate for this dependency. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired" />
       <item value="Returns true if this list contains the specified element. More formally, returns true if and only if this list contains at least one element e such that (o==null ? e==null : o.equals(e)). Params: o – element whose presence in this list is to be tested Returns: true if this list contains the specified element" />
       <item value="clause" />
       <item value="nknown column 'approve_status' in 'order clause'" />
@@ -49,13 +51,11 @@
       <item value="Required request body is missing" />
       <item value="Constructs an UnsupportedOperationException with the specified detail message. Params: message – the detail message" />
       <item value="anonymous" />
-      <item value="@Order defines the sort order for an annotated component. The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value). Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation. NOTE: Annotation-based ordering is supported for specific kinds of components only — for example, for annotation-based AspectJ aspects. Ordering strategies within the Spring container, on the other hand, are typically based on the Ordered interface in order to allow for programmatically configurable ordering of each instance." />
-      <item value="The returned Collector is not concurrent. For parallel stream pipelines, the combiner function operates by merging the keys from one map into another, which can be an expensive operation. If it is not required that results are merged into the Map in encounter order, using toConcurrentMap(Function, Function, BinaryOperator) may offer better parallel performance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
