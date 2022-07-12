@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.microsoft.sqlserver.jdbc.SQLServerException: The column name 'CreatorId' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code" />
       <item value="Add an attribute to the model. Params: attributeName – name of the object to add to the model attributeValue – object to add to the model (never null)" />
       <item value="parameterTypes – the parameter array" />
       <item value="By default, the content of the &quot;default&quot; model is used both during rendering and redirect scenarios. Alternatively a controller method can declare a RedirectAttributes argument and use it to provide attributes for a redirect. Setting this flag to true ensures the &quot;default&quot; model is never used in a redirect scenario even if a RedirectAttributes argument is not declared. Setting it to false means the &quot;default&quot; model may be used in a redirect if the controller method doesn't declare a RedirectAttributes argument. The default setting is false but new applications should consider setting it to true." />
@@ -50,17 +51,16 @@
       <item value="varbinary" />
       <item value="The data types date and varbinary are incompatible in the less than or equal to operator" />
       <item value="binary" />
-      <item value="truncated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656409582197" />
+    <option name="lastTrimTime" value="1657591879444" />
   </component>
 </application>
