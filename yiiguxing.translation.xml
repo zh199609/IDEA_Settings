@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns an encoder instance that encodes equivalently to this one, but without adding any padding character at the end of the encoded byte data. The encoding scheme of this encoder instance is unaffected by this invocation. The returned encoder instance should be used for non-padding encoding operation. Returns: an equivalent encoder that encodes without adding any padding character at the end" />
       <item value="Encodes all bytes from the specified byte array into a newly-allocated byte array using the Base64 encoding scheme. The returned byte array is of the length of the resulting bytes. Params: src – the byte array to encode Returns: A newly-allocated byte array containing the resulting encoded bytes." />
       <item value="Decodes a Base64 encoded String into a newly-allocated byte array using the Base64 encoding scheme. An invocation of this method has exactly the same effect as invoking decode(src.getBytes(StandardCharsets.ISO_8859_1)) Params: src – the string to decode Returns: A newly-allocated byte array containing the decoded bytes. Throws: IllegalArgumentException – if src is not in valid Base64 scheme" />
       <item value="com.microsoft.sqlserver.jdbc.SQLServerException: The column name 'CreatorId' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code" />
@@ -50,12 +51,11 @@
       <item value="failed to concat orderBy from IPage" />
       <item value="Encountered unexpected token" />
       <item value="operator" />
-      <item value="varbinary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
