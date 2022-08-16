@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation" />
       <item value="invoked" />
       <item value="This method is not invoked for the main method thread or &quot;system&quot; group threads createdset up by the VM. Any new functionality added to this method in the future may have to also be added to the VM" />
       <item value="Unable to allocate 129536KB bitmaps for parallel garbage collection for the requested 4145152KB heap" />
@@ -50,12 +51,11 @@
       <item value="Rejected Execution Exception" />
       <item value="Error: A JNI error has occurred, please check your installation and try again" />
       <item value="test should never throw an exception to this level" />
-      <item value="Failed to execute goal org.codehaus.mojo:cobertura-maven-plugin:2.7:instrument (default) on project BCCPMS: Unable to prepare instrumentation directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
