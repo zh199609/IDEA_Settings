@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="Invocation" />
       <item value="invoked" />
       <item value="This method is not invoked for the main method thread or &quot;system&quot; group threads createdset up by the VM. Any new functionality added to this method in the future may have to also be added to the VM" />
       <item value="Unable to allocate 129536KB bitmaps for parallel garbage collection for the requested 4145152KB heap" />
       <item value="parallel" />
       <item value="allocate" />
-      <item value="Simple task executor interface that abstracts the execution of a Runnable. Implementations can use all sorts of different execution strategies, such as: synchronous, asynchronous, using a thread pool, and more. Equivalent to JDK 1.5's Executor interface; extending it now in Spring 3.0, so that clients may declare a dependency on an Executor and receive any TaskExecutor implementation. This interface remains separate from the standard Executor interface mainly for backwards compatibility with JDK 1.4 in Spring 2.x." />
       <item value="eturns the value to which the specified key is mapped, or null if this map contains no mapping for the key. More formally, if this map contains a mapping from a key k to a value v such that (key==null ? k==null : key.equals(k)), then this method returns v; otherwise it returns null. (There can be at most one such mapping.) If this map permits null values, then a return value of null does not necessarily indicate that the map contains no mapping for the key; it's also possible that the map explicitly maps the key to null. The containsKey operation may be used to distinguish these two cases. Params: key – the key whose associated value is to be returned Returns: the value to which the specified key is mapped, or null if this map contains no mapping for the key" />
       <item value="Field number for get and set indicating the day of the month. This is a synonym for DATE. The first day of the month has value 1." />
       <item value="excludes" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
