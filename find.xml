@@ -5,18 +5,18 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>java</mask>
     <mask>*js</mask>
     <mask>*java</mask>
     <mask>*html</mask>
     <mask>*.JS</mask>
-    <mask>*.js</mask>
     <mask>*sql</mask>
     <mask>*.html</mask>
     <mask>*css</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
