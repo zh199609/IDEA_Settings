@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Executor" />
       <item value="Invoking the beforeTestMethod method on PowerMock test" />
       <item value="Checkstyle" />
       <item value="Persistence Exception" />
@@ -50,17 +51,16 @@
       <item value="HttpMessageConverter found for request type" />
       <item value="no suitable" />
       <item value="Could not write request" />
-      <item value="Numeric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661177802375" />
+    <option name="lastTrimTime" value="1661737283351" />
   </component>
 </application>
