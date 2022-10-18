@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Principal" />
       <item value="Dynamic" />
       <item value="Error occurred during initialization of VM Could not reserve enough space for object heap" />
       <item value="Stack" />
@@ -50,7 +51,6 @@
       <item value="Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file: java.naming.factory.initial" />
       <item value="No Initial Context Exception" />
       <item value="Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder" />
-      <item value="Removes the first occurrence of the specified element from this list, if it is present (optional operation). If this list does not contain the element, it is unchanged. More formally, removes the element with the lowest index i such that (o==null ? get(i)==null : o.equals(get(i))) (if such an element exists). Returns true if this list contained the specified element (or equivalently, if this list changed as a result of the call). Params: o – element to be removed from this list, if present Returns: true if this list contained the specified element" />
     </histories>
     <option name="languageScores">
       <map>
